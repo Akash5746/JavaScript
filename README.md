@@ -1,2 +1,2 @@
 # JavaScript-
-this is for learning purpose 
+A code repo for JavaScript 
